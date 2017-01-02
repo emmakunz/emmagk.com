@@ -1,0 +1,39 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+<head><script src="https://use.typekit.net/yya6ehj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script></head>
+
+body {background-color:black;}
+
+.nav {font-family:sans-serif;
+font-style:normal;
+font-weight:300;
+color:black;
+text-decoration:none;
+font-size:14px;
+float:right;
+padding-right:200px;
+padding-top:50px;
+}
+
+
+a {color:black;
+text-decoration:none;
+}
+
+
+
+
+
+
+a:hover {color:#4EDCCA;
+  opacity:1.0;}
+
+
+
+
+
+
+
